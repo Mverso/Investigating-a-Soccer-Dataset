@@ -1,0 +1,8 @@
+# Ignore Zip File
+*.zip
+
+#Ignore template
+*template*
+
+#Ignore .DS_Store
+.DS_Store
