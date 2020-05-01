@@ -9,3 +9,6 @@
 
 # Checkpoints
 .ipynb_checkpoints/
+
+# ReadMe in Jupyter Notebook
+ReadMe.ipynb
